@@ -1,4 +1,4 @@
-import org.example.Resta;
+import ar.edu.utn.frc.tup.lciii.Resta;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

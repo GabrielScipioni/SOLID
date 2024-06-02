@@ -1,4 +1,4 @@
-import org.example.Division;
+import ar.edu.utn.frc.tup.lciii.Division;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

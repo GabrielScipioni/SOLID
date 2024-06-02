@@ -1,5 +1,5 @@
 
-import org.example.Multiplicacion;
+import ar.edu.utn.frc.tup.lciii.Multiplicacion;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

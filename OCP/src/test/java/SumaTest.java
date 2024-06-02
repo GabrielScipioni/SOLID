@@ -1,4 +1,4 @@
-import org.example.Suma;
+import ar.edu.utn.frc.tup.lciii.Suma;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -9,7 +9,7 @@ Este principio establece dos reglas claves:
 - las abstracciones no deben depender de los detalles. Los detalles deben depender de las abstracciones
 ---
 
-en este proyecto veremos de manera simple un ejemplo del principio, haremos un servicio de mensajeria donde tendremos una Abstracion llamada [NotificacionService.](src/main/java/org/example/Abstracion/NotificacionService.java) Módulos de Bajo Nivel que implementaran la abstraccion, estos modulos tendran que ser la representacion de un servicio de Email y otro de MSM.
+en este proyecto veremos de manera simple un ejemplo del principio, haremos un servicio de mensajeria donde tendremos una Abstracion llamada [NotificacionService.](src/main/java/ar/edu/utn/frc/tup/lciii/Abstracion/NotificacionService.java) Módulos de Bajo Nivel que implementaran la abstraccion, estos modulos tendran que ser la representacion de un servicio de Email y otro de MSM.
 
 Por ultimo tenemos un módulo de Alto Nivel que **dependera** de la abstraccion para Servir un mensaje al usuario en pantalla
 

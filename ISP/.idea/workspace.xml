@@ -6,9 +6,46 @@
   <component name="ChangeListManager">
     <list default="true" id="70814b9c-6430-47ed-aa5e-f61e38de9ab9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../DIP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DIP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DIP/DIP.md" beforeDir="false" afterPath="$PROJECT_DIR$/../DIP/DIP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DIP/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DIP/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/utn/frc/tup/lciii/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IaveNadadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/utn/frc/tup/lciii/IaveNadadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IaveVoladora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/utn/frc/tup/lciii/IaveVoladora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Loro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/utn/frc/tup/lciii/Loro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/utn/frc/tup/lciii/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Paloma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/utn/frc/tup/lciii/Paloma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Pinguino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/utn/frc/tup/lciii/Pinguino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LSP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LSP/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP/src/main/java/org/example/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LSP/src/main/java/ar/edu/utn/frc/tup/lciii/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP/src/main/java/org/example/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LSP/src/main/java/ar/edu/utn/frc/tup/lciii/Cuadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP/src/main/java/org/example/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LSP/src/main/java/ar/edu/utn/frc/tup/lciii/Forma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LSP/src/main/java/ar/edu/utn/frc/tup/lciii/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP/src/main/java/org/example/Perimetro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LSP/src/main/java/ar/edu/utn/frc/tup/lciii/Perimetro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP/src/main/java/org/example/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LSP/src/main/java/ar/edu/utn/frc/tup/lciii/Rectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP/src/main/java/org/example/TrianguloRectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LSP/src/main/java/ar/edu/utn/frc/tup/lciii/TrianguloRectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/main/java/org/example/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/main/java/ar/edu/utn/frc/tup/lciii/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/main/java/org/example/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/main/java/ar/edu/utn/frc/tup/lciii/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/main/java/ar/edu/utn/frc/tup/lciii/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/main/java/org/example/Multiplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/main/java/ar/edu/utn/frc/tup/lciii/Multiplicacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/main/java/org/example/Operacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/main/java/ar/edu/utn/frc/tup/lciii/Operacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/main/java/org/example/Resta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/main/java/ar/edu/utn/frc/tup/lciii/Resta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/main/java/org/example/Suma.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/main/java/ar/edu/utn/frc/tup/lciii/Suma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/main/java/org/example/VerificadorCero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/main/java/ar/edu/utn/frc/tup/lciii/VerificadorCero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/test/java/DivisionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/test/java/DivisionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/test/java/MultiplicacionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/test/java/MultiplicacionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/test/java/RestaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/test/java/RestaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/src/test/java/SumaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/src/test/java/SumaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SRP/SRP.md" beforeDir="false" afterPath="$PROJECT_DIR$/../SRP/SRP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SRP/src/main/java/org/example/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SRP/src/main/java/ar/edu/utn/frc/tup/lciii/FileHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SRP/src/main/java/org/example/FileHandlerReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SRP/src/main/java/ar/edu/utn/frc/tup/lciii/FileHandlerReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SRP/src/main/java/org/example/FileHandlerWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SRP/src/main/java/ar/edu/utn/frc/tup/lciii/FileHandlerWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SRP/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SRP/src/main/java/ar/edu/utn/frc/tup/lciii/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SRP/src/main/java/org/example/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SRP/src/main/java/ar/edu/utn/frc/tup/lciii/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SRP/src/main/java/org/example/UserInteraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SRP/src/main/java/ar/edu/utn/frc/tup/lciii/UserInteraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SRP/src/main/java/org/example/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SRP/src/main/java/ar/edu/utn/frc/tup/lciii/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SRP/src/main/java/org/example/UserValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SRP/src/main/java/ar/edu/utn/frc/tup/lciii/UserValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SRP/src/main/java/org/example/Users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SRP/src/main/java/ar/edu/utn/frc/tup/lciii/Users.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +127,8 @@
       <workItem from="1717185005023" duration="981000" />
       <workItem from="1717188677637" duration="22000" />
       <workItem from="1717193349152" duration="27000" />
+      <workItem from="1717202678121" duration="9000" />
+      <workItem from="1717202708914" duration="24000" />
     </task>
     <servers />
   </component>
