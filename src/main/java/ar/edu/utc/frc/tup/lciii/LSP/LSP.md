@@ -10,4 +10,10 @@ El LSP es uno de los principios más importantes en la programación orientada a
 
 ---
 
+para demostrarlo tendremos diferentes clases
+concretas: `Cuadrado`, `Rectangulo`, `TrianguloRectangulo`. A las que deberemos sacarles él `Area` y su `Perimetro`.
+El problema es que el día de mañana yo quiero agregar nuevas figuras geometricas. Debere de abstraerme para esperar una clase abstracta que abarque todos estos objetos, de ahi nace la abstraccion `Forma` que implementa los metodos de Área y Perimetro.
+
+De esta manera si quiero añadir Paralelogramos lo unico que deberia hacer es que la clase herede de Forma para luego en el Main poder utilizar sus metodos 
+
 </div>
